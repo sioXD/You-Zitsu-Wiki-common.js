@@ -1,4 +1,4 @@
-# Javascript code for common.Javascript
+# Javascript code for common.js
 
 a small Javascript script which makes the images on the COTE Wiki better.
 
@@ -8,7 +8,7 @@ Especially for: Covers and Illustrations
 
 go to: https://you-zitsu.fandom.com/wiki/User:%USERNAME%/common.js
 
-- %USERNAME% needs to be replaced with your username
+- **%USERNAME%** needs to be replaced with your username
 
 ### what now?
 
